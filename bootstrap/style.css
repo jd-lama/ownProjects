@@ -145,7 +145,18 @@
   height: 100vh;
   
 }
-
+.col_1_container{
+  background-color: #06281e;
+  margin:0px;
+  padding:0xp;
+ 
+}
+.col_1_links{
+ background-color: blue;
+margin-left: -40px;
+ position: relative;
+ 
+}
 .main_col_2::-webkit-scrollbar {
   display: none;
 }
@@ -165,4 +176,6 @@
 
 .main_col_3{
   background-color: blue;
+  overflow: scroll;
+
 }
