@@ -170,6 +170,9 @@ margin-left: -40px;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+.cards{
+  display:flex
+}
 .main_col_1{
   background-color: grey;
 }
